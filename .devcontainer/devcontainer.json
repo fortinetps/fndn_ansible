@@ -1,0 +1,11 @@
+{
+	"name": "fndn_ansible dev env with vscode remote development",
+	"dockerFile": "Dockerfile",
+	"context": "..",
+	"extensions": [
+		"ms-python.python"
+	],
+	"settings": {
+		"python.pythonPath": "/usr/local/bin/python"
+	}
+}
